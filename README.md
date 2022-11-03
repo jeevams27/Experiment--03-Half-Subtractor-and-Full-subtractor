@@ -44,6 +44,8 @@ Program to design a half subtractor and full subtractor circuit and verify its t
   Developed by: MS.Jeeva
 
   RegisterNumber:  212221230040
+  
+  
 */
 
 ## Half Subtractor:
